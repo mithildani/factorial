@@ -2,6 +2,7 @@
 
 void main()
 {
+    printf("Test");
     int n;
     printf("\t\t Welcome to Factorial Calculator! \n\n\n\n Enter any integer: ");
     scanf("%i",&n);
@@ -22,4 +23,6 @@ void main()
     {
         printf("\n\n %i! is %e \n\n",n,ans);
     }
+    
+    printf("Sid");
 }
