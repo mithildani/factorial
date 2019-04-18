@@ -5,6 +5,7 @@ void main()
     int n;
     printf("\t\t Welcome to Factorial Calculator! \n\n\n\n Enter any integer: ");
     scanf("%i",&n);
+    printf("Mithils Commit\n");
 
     int i;
     double ans=1;
