@@ -6,7 +6,7 @@ void main()
     int n;
     printf("\t\t Welcome to Factorial Calculator! \n\n\n\n Enter any integer: ");
     scanf("%i",&n);
-<<<<<<< HEAD
+<<<<<<< HEAD  LALALALALLALA
     printf("Mithils , Sid's and Divya Commit\n");
 
 
