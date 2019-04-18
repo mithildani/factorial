@@ -1,4 +1,4 @@
-#include<stdio.h>
+ #include<stdio.h>
 
 void main()
 {
@@ -6,7 +6,7 @@ void main()
     int n;
     printf("\t\t Welcome to Factorial Calculator! \n\n\n\n Enter any integer: ");
     scanf("%i",&n);
-    printf("Mithils and Sid'sCommit\n");
+    printf("Mithils , Sid's and Divya Commit\n");
 
     int i;
     double ans=1;
